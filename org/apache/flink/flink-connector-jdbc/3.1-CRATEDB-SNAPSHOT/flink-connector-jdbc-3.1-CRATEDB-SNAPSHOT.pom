@@ -4,7 +4,6 @@
     <artifactId>flink-connector-jdbc-parent</artifactId>
     <groupId>org.apache.flink</groupId>
     <version>3.1-CRATEDB-SNAPSHOT</version>
-    <relativePath>../../pom.xml</relativePath>
   </parent>
   <modelVersion>4.0.0</modelVersion>
   <artifactId>flink-connector-jdbc</artifactId>
